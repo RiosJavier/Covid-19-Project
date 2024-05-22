@@ -1,6 +1,6 @@
 **<All Authors>** 
-Samuel Wait
-Thomas Medina-Herrera
+Samuel Wait,
+Thomas Medina-Herrera,
 Javier E Rios
 
 ## Project Summary
